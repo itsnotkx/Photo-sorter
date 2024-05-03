@@ -12,7 +12,8 @@ pip install sklearn
 **BACKUP ALL PHOTOS FIRST**
 
 Move the desired photos into a folder, and select your folder using the gui.
-If your photos have location data, check the _Sort by location_ checkbox, and choose your scale. Defaults to sorting by date taken.
+If you want to sort your photos by date, just run the code. (default)
+If your photos have location data, check the _Sort by location_ checkbox, and choose your scale.
 After running the code, rename your folders as desired.
 
 
